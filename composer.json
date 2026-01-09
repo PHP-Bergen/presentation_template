@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "\\phpbergen\\TalkTopic\\": "src/"
+      "phpbergen\\TalkTopic\\": "src/"
     }
   },
   "autoload-dev": {
